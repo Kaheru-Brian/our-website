@@ -37,7 +37,16 @@ a:active {
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-
+.header-logo img {
+    float: left;
+    width: 60px;
+    height: 60px;
+}
+.a-tag {
+   text-align: left;
+   
+   padding-top: 50px;
+}
 
 
 
