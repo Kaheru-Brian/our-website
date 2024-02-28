@@ -1,0 +1,44 @@
+.header-logo {
+    color: rgb(240, 28, 70);
+    padding: 5px 10px;
+    text-align: left;
+    text-size-adjust: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+}
+.links {
+    padding: 10px 20px;
+    margin: 10px;
+   
+
+}
+a {
+    padding: 10px ;
+    text-decoration: none;
+    
+    margin: 10px;
+    display: inline-block;
+}
+a:link {
+    color:red;
+
+}
+a:visited {
+    color: blueviolet;
+}
+a:hover {
+    color: hotpink;
+  text-decoration: dotted;
+    
+}
+a:active {
+    color: chocolate;
+}
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+
+
+
