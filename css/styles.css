@@ -1,57 +1,14 @@
-.header-logo {
-    color: rgb(240, 28, 70);
-    padding: 5px 10px;
-    text-align: left;
-    text-size-adjust: 10px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: larger;
-    padding: 10px 20px;
-    margin: 10px;
-  
-   height: 100px;
-
-}
-.header {
-    background-color: darkslategray;
-}
-a {
-    padding: 10px ;
-    text-decoration: none;
-    
-    margin: 10px;
-    display: inline-block;
-}
-a:link {
-    color:red;
-
-}
-a:visited {
-    color: blueviolet;
-}
-a:hover {
-    color: hotpink;
-  text-decoration: dotted;
-    
-}
-a:active {
-    color: chocolate;
-}
-body {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+.navbar navbar-expand-lg bg-body-tertiary {
+    margin: 5px;
+    background-color: turquoise;
     padding: 10px;
-    margin: 10px;
-}
-.header-logo img {
-    float: left;
-    width: 60px;
-    height: 60px;
-}
-.a-tag {
-   text-align: left;
    
-   padding-top: 50px;
 }
-
-
-
+#nav-head {
+    margin: 5px;
+    background-color: turquoise;
+}
+h1 {
+    color: tomato;
+}
 
