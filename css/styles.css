@@ -5,12 +5,14 @@
     text-size-adjust: 10px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: larger;
-}
-.links {
     padding: 10px 20px;
     margin: 10px;
-   
+  
+   height: 100px;
 
+}
+.header {
+    background-color: darkslategray;
 }
 a {
     padding: 10px ;
@@ -36,6 +38,8 @@ a:active {
 }
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 10px;
+    margin: 10px;
 }
 .header-logo img {
     float: left;
